@@ -1,4 +1,7 @@
-### Hi there 👋
+# Welcome! 👋
+ 
+
+## I'm Gabriel Garufi! 👋
 
 :computer: I'm a Electronic Engineer and Data Science Student
 
