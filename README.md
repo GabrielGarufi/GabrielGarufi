@@ -5,7 +5,7 @@
 
 :computer: I'm a Electronic Engineer and Data Science Student
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from Lorena/SP, Brazil.
 
 :books: I’m currently learning Data Science.
 
